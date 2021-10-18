@@ -18,6 +18,6 @@
 <b>3 3 E</b> <br>
 <b>MMRMMRMRRM</b> <br>
 
-<p>Expected Output:</p> <br>
+<p>Expected Output:</p>
 <b>1 3 N</b> <br>
 <b>5 1 E</b> <br>
