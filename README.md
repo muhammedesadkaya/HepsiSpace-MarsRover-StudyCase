@@ -12,12 +12,12 @@
 
 <p>Test Input:</p>
 
-<b>5 5</b>
-<b>1 2 N</b>
-<b>LMLMLMLMM</b>
-<b>3 3 E</b>
-<b>MMRMMRMRRM</b>
+<b>5 5</b> <br>
+<b>1 2 N</b> <br>
+<b>LMLMLMLMM</b> <br>
+<b>3 3 E</b> <br>
+<b>MMRMMRMRRM</b> <br>
 
-<p>Expected Output:</p>
-<b>1 3 N</b>
-<b>5 1 E</b>
+<p>Expected Output:</p> <br>
+<b>1 3 N</b> <br>
+<b>5 1 E</b> <br>
